@@ -1,0 +1,28 @@
+name: fefo
+favicon: null
+layout_spectrum: 0.8826723098754883
+typography_spectrum: 0.02140536461956799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.15715146297588944
+  lightness: 0.6128281834535301
+  saturation: 0.1673773406073451
+  rhythmicContrast: 0.5897105410695076
+purpose: []
